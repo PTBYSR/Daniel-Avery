@@ -69,7 +69,7 @@
                                     </br>
                                     </br>
                                     <h3 class="wow fadeInUp" data-wow-delay="1s">work.</h3><br>
-                                    <p class="wow fadeInUp" data-wow-delay="1.2s">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Neque, accusantium sint quod voluptatem dolorum, quaerat, ut iusto cumque magni ab repudiandae, quasi minus unde temporibus nulla eum eaque! Placeat praesentium sunt suscipit laboriosam deserunt commodi atque corporis, iure maiores dicta, fugit similique.</p>
+                                    <p class="wow fadeInUp" data-wow-delay="1.2s">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Veniam, nam. Nemo excepturi, id similique dicta fuga eveniet possimus at quos? Delectus sed asperiores sequi error, blanditiis assumenda modi quidem. Incidunt esse nostrum ratione fugit molestiae odit, rem adipisci voluptate. Pariatur, deleniti in nihil quibusdam perferendis similique iste. Aliquam commodi aliquid suscipit, numquam minus asperiores iure quisquam expedita ex minima similique fuga. Libero asperiores possimus nihil itaque nulla totam error odit ipsam, consequatur ea provident. Sint vitae error itaque necessitatibus placeat ducimus velit? Aperiam cum nesciunt voluptatem porro inventore, consequuntur odit.</p>
 
                               </div>
                         </div>

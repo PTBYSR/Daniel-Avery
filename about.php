@@ -6,7 +6,7 @@
       <meta http-equiv="X-UA-Compatible" content="ie=edge">
       <meta name="author" content="harrnish">
 
-      <title>About Daniel</title>
+      <title>About Daniel Avery</title>
 
       <!-- stylesheet -->
       <link rel="stylesheet" href="style.css">
